@@ -1,2 +1,2 @@
-# publish-java-package-gradle
-Publishin Java with Gradle
+# publish-java-package-with-gradle
+publishing java package with gradle
